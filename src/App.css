@@ -1,0 +1,43 @@
+.body {
+  background-color: black;
+  height: 100vh;
+  width: 100%;
+}
+.App {
+  display: grid;
+  text-align: center;
+  justify-content: center;
+}
+
+.vndc {
+  margin-left: 10%;
+  color: white;
+}
+.onus {
+  display: flex;
+  width: 50%;
+  margin-left: 10%;
+  color: white;
+}
+.usdt {
+  display: flex;
+  width: 50%;
+  margin-left: 10%;
+  color: white;
+}
+.price {
+  margin-left: 5%;
+  color: white;
+}
+.win {
+  color: yellow;
+}
+
+.lose {
+  color: red;
+}
+
+.image_logo {
+  height: 50px;
+  width: 50px;
+}
